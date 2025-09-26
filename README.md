@@ -11,6 +11,7 @@
 <p> New York has so many beautiful places to go during the day or night! </p>
 <p> There are many skyscrapers you can view. </p>
 <p> Anyone can come to New York and have a wonderful time! </p>
+<p> https://www.tripadvisor.com/Attractions-g60763-Activities-New_York_City_New_York.html </p>
 <style>
 <h2><strong> Orlando</strong>{color:DarkGoldenRod;}</h2>
 </style>
